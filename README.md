@@ -1,2 +1,2 @@
 # TinDog
-html / css / bootstrap study
+html / css / bootstrap
